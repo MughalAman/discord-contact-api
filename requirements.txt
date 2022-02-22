@@ -3,4 +3,4 @@ flask-restx
 python-dotenv
 requests
 flask-cors
-guniucorn
+gunicorn
